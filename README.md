@@ -39,6 +39,7 @@ Resource Terraform для Yandex Cloud:
 >[VM Nat](./conf/nat.tf);    
 >[VM 1](./conf/vm1.tf);           
 >[VM 2](./conf/vm2.tf).        
+
 ![localImage](./Yes.png)
 
 ---
